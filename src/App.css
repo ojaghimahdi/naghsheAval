@@ -1,0 +1,4 @@
+.lblRequred::after{
+content: "*";
+color: red;
+}
